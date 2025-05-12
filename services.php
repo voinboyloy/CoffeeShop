@@ -28,7 +28,6 @@
               </div>
               <div class="media-body">
                 <h3 class="heading">Easy to Order</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
               </div>
             </div>      
           </div>
@@ -39,7 +38,6 @@
               </div>
               <div class="media-body">
                 <h3 class="heading">Fastest Delivery</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
               </div>
             </div>      
           </div>
@@ -49,7 +47,6 @@
               	<span class="flaticon-coffee-bean"></span></div>
               <div class="media-body">
                 <h3 class="heading">Quality Coffee</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
               </div>
             </div>    
           </div>

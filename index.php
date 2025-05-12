@@ -24,7 +24,6 @@ $products = $conn->query("SELECT * FROM products WHERE type='drink'");
             <div class="col-md-8 col-sm-12 text-center ftco-animate">
             	<span class="subheading">Welcome</span>
               <h1 class="mb-4">The Best Coffee Testing Experience</h1>
-              <p class="mb-4 mb-md-5">A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
               <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Order Now</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">View Menu</a></p>
             </div>
 
@@ -40,7 +39,6 @@ $products = $conn->query("SELECT * FROM products WHERE type='drink'");
             <div class="col-md-8 col-sm-12 text-center ftco-animate">
             	<span class="subheading">Welcome</span>
               <h1 class="mb-4">Amazing Taste &amp; Beautiful Place</h1>
-              <p class="mb-4 mb-md-5">A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
               <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Order Now</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">View Menu</a></p>
             </div>
 
@@ -56,7 +54,6 @@ $products = $conn->query("SELECT * FROM products WHERE type='drink'");
             <div class="col-md-8 col-sm-12 text-center ftco-animate">
             	<span class="subheading">Welcome</span>
               <h1 class="mb-4">Creamy Hot and Ready to Serve</h1>
-              <p class="mb-4 mb-md-5">A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
               <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Order Now</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">View Menu</a></p>
             </div>
 
@@ -147,7 +144,9 @@ $products = $conn->query("SELECT * FROM products WHERE type='drink'");
 	          <h2 class="mb-4">Our Story</h2>
 	        </div>
 	        <div>
-	  				<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.</p>
+	  				<p>Our café began with a simple love for good coffee and meaningful moments. What started as a cozy corner for friends and neighbors has grown into a welcoming space where every cup tells a story. From carefully sourced beans to homemade pastries, everything we serve is made with heart. Whether you're here for your morning brew or an afternoon chat, we're here to make you feel at home—one sip at a time.
+
+                    </p>
 	  			</div>
   			</div>
     	</div>
@@ -163,7 +162,6 @@ $products = $conn->query("SELECT * FROM products WHERE type='drink'");
               </div>
               <div class="media-body">
                 <h3 class="heading">Easy to Order</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
               </div>
             </div>      
           </div>
@@ -174,7 +172,6 @@ $products = $conn->query("SELECT * FROM products WHERE type='drink'");
               </div>
               <div class="media-body">
                 <h3 class="heading">Fastest Delivery</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
               </div>
             </div>      
           </div>
@@ -184,7 +181,6 @@ $products = $conn->query("SELECT * FROM products WHERE type='drink'");
               	<span class="flaticon-coffee-bean"></span></div>
               <div class="media-body">
                 <h3 class="heading">Quality Coffee</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
               </div>
             </div>    
           </div>

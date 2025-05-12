@@ -28,18 +28,20 @@
     </section>
 
     <section class="ftco-about d-md-flex">
-    	<div class="one-half img" style="background-image: url(images/about.jpg);"></div>
-    	<div class="one-half ftco-animate">
-    		<div class="overlap">
-	        <div class="heading-section ftco-animate ">
-	        	<span class="subheading">Discover</span>
-	          <h2 class="mb-4">Our Story</h2>
-	        </div>
-	        <div>
-	  				<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.</p>
-	  			</div>
-  			</div>
-    	</div>
+        <div class="one-half img" style="background-image: url(images/about.jpg);"></div>
+        <div class="one-half ftco-animate">
+            <div class="overlap">
+                <div class="heading-section ftco-animate ">
+                    <span class="subheading">Discover</span>
+                    <h2 class="mb-4">Our Story</h2>
+                </div>
+                <div>
+                    <p>Our café began with a simple love for good coffee and meaningful moments. What started as a cozy corner for friends and neighbors has grown into a welcoming space where every cup tells a story. From carefully sourced beans to homemade pastries, everything we serve is made with heart. Whether you're here for your morning brew or an afternoon chat, we're here to make you feel at home—one sip at a time.
+
+                    </p>
+                </div>
+            </div>
+        </div>
     </section>
 
     <section class="ftco-section img" id="ftco-testimony" style="background-image: url(images/bg_1.jpg);"  data-stellar-background-ratio="0.5">
@@ -49,7 +51,6 @@
 	        <div class="col-md-7 heading-section text-center ftco-animate">
 	        	<span class="subheading">Testimony</span>
 	          <h2 class="mb-4">Customers Says</h2>
-	          <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
 	        </div>
 	      </div>
 	    </div>
@@ -80,7 +81,6 @@
     				<div class="heading-section text-md-right ftco-animate">
 	          	<span class="subheading">Discover</span>
 	            <h2 class="mb-4">Our Menu</h2>
-	            <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 	            <p><a href="menu.php" class="btn btn-primary btn-outline-primary px-4 py-3">View Full Menu</a></p>
 	          </div>
     			</div>

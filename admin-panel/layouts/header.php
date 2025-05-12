@@ -1,7 +1,7 @@
 <?php 
 
     session_start();
-    define("ADMINURL", "http://localhost/coffee-blend/admin-panel");
+    define("ADMINURL", "http://localhost/CoffeeShop/admin-panel");
 
 
 ?><!DOCTYPE html>
@@ -22,7 +22,7 @@
     <nav class="navbar header-top fixed-top navbar-expand-lg  navbar-dark bg-dark">
       <div class="container">
       <a class="navbar-brand" href="/images/cafelogo1.png">
-          <img src="/coffee-blend/images/cafelogo1.png"  alt="CoffeeBlend Logo" style="height: 40px; ">
+          <img src="/CoffeeShop/images/cafelogo1.png"  alt="Coffee Logo" style="height: 40px; ">
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText"
         aria-expanded="false" aria-label="Toggle navigation">
