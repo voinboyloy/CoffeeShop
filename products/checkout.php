@@ -5,8 +5,7 @@
 
 	if(!isset($_SERVER['HTTP_REFERER'])){
 		// redirect them to your desired location
-		header('location: http://localhost/coffee-blend');
-		exit;
+        header('location: http://localhost/CoffeeShop');		exit;
 	}
 
 	if(!isset($_SESSION['user_id'])) {
@@ -102,12 +101,8 @@
 		            		<div class="select-wrap">
 		                  <div class="icon"><span class="ion-ios-arrow-down"></span></div>
 		                  <select name="state" id="" class="form-control">
-		                  	<option value="France">France</option>
-		                    <option value="Italy">Italy</option>
-		                    <option value="Philippines">Philippines</option>
-		                    <option value="South Korea">South Korea</option>
-		                    <option value="Hongkong">Hongkong</option>
-		                    <option value="Japan">Japan</option>
+		                  	<option value="Cambodia">Cambodia</option>
+
 		                  </select>
 		                </div>
 		            	</div>
